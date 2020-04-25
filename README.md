@@ -27,3 +27,6 @@
 - [x] create [powershell profile](./files/Microsoft.PowerShell_profile.ps1)
 - [x] create ssh keys ```ssh-keygen``` and add to github
 - [x] play around with vim & vimrc [.vimrc](./files/.vimrc)
+- [ ] learn how to use tmux/screen
+- [ ] figure out weechat/connect to #ansible and slack
+

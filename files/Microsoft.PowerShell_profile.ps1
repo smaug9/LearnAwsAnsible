@@ -14,3 +14,4 @@ if (get-alias ls){ remove-item alias:\ls}
 function ls ([switch]$flash){
  Get-ChildItem
 }
+

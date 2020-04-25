@@ -1,0 +1,1 @@
+start brave --new-window "https://duckduckgo.com/?q=%*"

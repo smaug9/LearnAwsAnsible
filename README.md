@@ -4,6 +4,9 @@
 - [x] Create AWS Account
 - [ ] Figure out how to avoid being billed
 
+## Create First instance
+- [x] done! yeah!
+
 ## Create slack space
 
 
@@ -23,3 +26,4 @@
 - [x] create [g.cmd](./files/g.cmd)
 - [x] create [powershell profile](./files/Microsoft.PowerShell_profile.ps1)
 - [x] create ssh keys ```ssh-keygen``` and add to github
+- [x] play around with vim & vimrc [.vimrc](./files/.vimrc)

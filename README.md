@@ -35,9 +35,11 @@
 
 - [x] intall virtualbox
 - [x] install vagrant
-- [ ] download iso images
-  - [ ] esx6.5
-  - [ ] esx7.0
-  - [ ] vcsa7
-- [ ] install pwsh7 (unrelated)
+- [x] download iso images
+  - [x] esx6.5
+  - [x] esx7.0
+  - [x] vcsa7
+- [x] install pwsh7 (unrelated)
+- [x] install windows terminal (unrelated)
+
 

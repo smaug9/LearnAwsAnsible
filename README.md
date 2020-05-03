@@ -30,3 +30,14 @@
 - [ ] learn how to use tmux/screen
 - [ ] figure out weechat/connect to #ansible and slack
 
+
+## nested esxi on virtualbox
+
+- [x] intall virtualbox
+- [x] install vagrant
+- [ ] download iso images
+  - [ ] esx6.5
+  - [ ] esx7.0
+  - [ ] vcsa7
+- [ ] install pwsh7 (unrelated)
+
